@@ -117,6 +117,10 @@
 - Bio: Be useful and resourceful.
 - GitHub: [Utsav Jain](https://github.com/Utsavjain4561)
 
+#### Name: [AMIT JAIN](https://github.com/amitj4056)
+- Place: Allahbad, Uttar Pradesh, India
+- Bio: Boredom overloaded
+- Github: [Amit Jain](https://github.com/amitj4056)
 
 #### Name: [ANKUR MISHRA](https://github.com/kaiatgit)
 - Place: Lucknow, UP, India
